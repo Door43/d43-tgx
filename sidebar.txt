@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgx:home|Door43 (tgx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgx|d43-tgx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgx/archive/master.zip|d43-tgx.zip]]
+
+**Recent Changes**
+{{changes>ns = tgx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgx|Ethnologue data]]
+
